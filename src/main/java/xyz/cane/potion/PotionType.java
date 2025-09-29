@@ -1,0 +1,25 @@
+package xyz.cane.potion;
+
+public enum PotionType {
+    UNCRAFTABLE,
+    WATER,
+    MUNDANE,
+    THICK,
+    AWKWARD,
+    NIGHT_VISION,
+    INVISIBILITY,
+    LEAPING,
+    FIRE_RESISTANCE,
+    SWIFTNESS,
+    SLOWNESS,
+    TURTLE_MASTER,
+    WATER_BREATHING,
+    HEALING,
+    HARMING,
+    POISON,
+    REGENERATION,
+    STRENGTH,
+    WEAKNESS,
+    LUCK,
+    SLOW_FALLING
+}
