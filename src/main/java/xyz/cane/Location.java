@@ -26,6 +26,10 @@ public class Location {
         this.pitch = pitch;
     }
 
+    public int getBlockX() { return (int) Math.floor(this.x); }
+    public int getBlockY() { return (int) Math.floor(this.y); }
+    public int getBlockZ() { return (int) Math.floor(this.z); }
+
     // Getters
     @NotNull public World getWorld() { return world; }
     public double getX() { return x; }

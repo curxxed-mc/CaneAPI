@@ -8,7 +8,7 @@ import xyz.cane.Location;
 /**
  * Represents a human entity, such as a player.
  */
-public interface HumanEntity extends EntityLiving {
+public interface HumanEntity extends LivingEntity {
 
     /**
      * Gets the name of this human entity.
