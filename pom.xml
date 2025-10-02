@@ -15,7 +15,6 @@
     </properties>
 
     <dependencies>
-        <!-- Keep only the dependencies that are actually referenced in the source code.  Scanned the repository and only org.jetbrains.annotations is imported anywhere. -->
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>

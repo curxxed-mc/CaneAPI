@@ -1,7 +1,7 @@
 Cane
 ======
 
-A Minecraft Server API.
+A Minecraft Server API. (WIP!!)
 
 Compilation
 -----------
